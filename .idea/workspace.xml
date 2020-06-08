@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/src_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/src_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57328f59a67eeba28e83a1444416837873f19bbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logback/log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManagerJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManagerJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDaoJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Manufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stc/inno/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/TestResultLoggerExtension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/dao/MobileDaoJdbcImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/mocks/ConnectionManagerMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/mocks/ConnectionMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/mocks/PreparedStatementMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/mocks/ResultSetMock.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Shara\.m2\wrapper\dists\apache-maven-3.6.1-bin\38pn40mp89t5c94bjdbeod370m\apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbrbqcYK6Twreb6XaxkrJWdSy0" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path" value="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\1" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3.1. JDBC и работа с БД/sources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="stc.inno20" />
+      <recent name="stc.inno20.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\maven\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\maven" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\maven\src\test" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src\test\java\stc\inno20" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -N io.takari:maven:wrapper -Dmaven=3.3.3" />
+      <command value="mvn mvn -N io.takari:maven:wrapper -Dmaven=3.6.1" />
+      <command value="mvn -N io.takari:maven:wrapper -Dmaven=3.6.1" />
+      <command value="mvn maven-compiler-plugin:help" />
+      <command value="mvn compiler:help" />
+      <command value="mvn assembly:help" />
+      <command value="mvn help:describe" />
+      <command value="mvn help:describe -Dcmd=site" />
+      <command value="mvn clean install" />
+      <command value="mvn help:describe -Dcmd=compile" />
+      <command value="mvn help:describe -Dcmd=clean" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stc.inno.Main" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno.MainTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileDaoJdbcImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno.dao" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno.dao.MobileDaoJdbcImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name=".dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value=".dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Docker..dockerfile" />
+      <item itemvalue="JUnit.MobileDaoJdbcImplTest" />
+      <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.main" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MobileDaoJdbcImplTest" />
+        <item itemvalue="Docker..dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="" />
+      <created>1575636209674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575636209674</updated>
+      <workItem from="1575636214111" duration="13369000" />
+      <workItem from="1575828388763" duration="31000" />
+      <workItem from="1576058203257" duration="2382000" />
+      <workItem from="1576065165277" duration="32000" />
+      <workItem from="1576065229313" duration="1342000" />
+      <workItem from="1576066594904" duration="6207000" />
+      <workItem from="1576240329062" duration="1175000" />
+      <workItem from="1591623180178" duration="7941000" />
+      <workItem from="1592148999840" duration="703000" />
+      <workItem from="1605274708654" duration="1433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2916" y="428" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.inPresentationMode" timestamp="1605275134421">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-2916" y="428" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605275134421" />
+    <state x="-2846" y="435" key="FileChooserDialogImpl.inPresentationMode" timestamp="1605274921761">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-2846" y="435" key="FileChooserDialogImpl.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605274921761" />
+    <state width="1718" height="414" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1605275266296">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="414" key="GridCell.Tab.0.bottom.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605275266296" />
+    <state width="1718" height="414" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1605275266296">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="414" key="GridCell.Tab.0.center.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605275266296" />
+    <state width="1718" height="414" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1605275266295">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="414" key="GridCell.Tab.0.left.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605275266295" />
+    <state width="1718" height="414" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1605275266296">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="414" key="GridCell.Tab.0.right.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605275266296" />
+    <state x="-2905" y="374" key="RollbackChangesDialog.inPresentationMode" timestamp="1605275228407">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-2905" y="374" key="RollbackChangesDialog.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605275228407" />
+    <state x="-3008" y="350" width="840" height="1034" key="run.anything.popup.inPresentationMode" timestamp="1605275281592">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-3008" y="350" width="840" height="1034" key="run.anything.popup.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605275281592" />
+    <state x="-3001" y="353" width="840" height="1034" key="search.everywhere.popup.inPresentationMode" timestamp="1605274813373">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-3001" y="353" width="840" height="1034" key="search.everywhere.popup.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605274813373" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1575640226456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>stc.inno20.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/src$All_in_src.ic" NAME="All in src Coverage Results" MODIFIED="1575655252851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
